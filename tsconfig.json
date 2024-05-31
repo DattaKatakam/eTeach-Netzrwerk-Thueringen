@@ -26,5 +26,8 @@
   
   "include": [
     "src"
-, "script.js"  ]
+, "script.js"  ],
+    "exclude": [
+        "node_modules"
+    ]
 }
